@@ -35,7 +35,7 @@ function App() {
     <main>
       <div className="container">
         <div className="img-container">
-          <img src='src\assets\sushi_mascot-removebg-preview.png' alt="Sushi"/>
+          <img src="public\images\sushi_mascot-removebg-preview.png"></img>
         </div>
         <div className="btn-container">
           <button className="subtract" onClick={subtractSushi}>-</button>
