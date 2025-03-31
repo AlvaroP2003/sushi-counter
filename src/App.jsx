@@ -35,7 +35,7 @@ function App() {
     <main>
       <div className="container">
         <div className="img-container">
-          <img src="public\images\sushi_mascot-removebg-preview.png"></img>
+          <img src="C:\Users\User\Documents\Coding\Practice Projects\React JS\sushi-counter\public\images\sushi_mascot-removebg-preview.png"></img>
         </div>
         <div className="btn-container">
           <button className="subtract" onClick={subtractSushi}>-</button>
